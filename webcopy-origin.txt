@@ -1,0 +1,72 @@
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/css/style.css
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\css\style.css
+Content Type: text/css
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/css/swiper-bundle.css
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\css\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/1.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\1.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/2.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\2.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/3.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\3.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/4.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\4.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/5.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\5.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/6.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\6.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/7.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\7.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/8.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\8.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/logo.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/img/title0.png
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\img\title0.png
+Content Type: image/png
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/js/flexible.js
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\js\flexible.js
+Content Type: application/javascript
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/js/invite_n.js
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\js\invite_n.js
+Content Type: application/javascript
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/js/jq-clipboard.min.js
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\js\jq-clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/js/jquery.js
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/assets/js/swiper-bundle.min.js
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://dq9pg8u3wr2s6.cloudfront.net/bbm/index_1.html
+File Name: C:\Users\USER\Music\download website\dq9pg8u3wr2s6.cloudfront.net\bbm\index_1.html
+Content Type: text/html
+
